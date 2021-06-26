@@ -3,9 +3,7 @@ click==7.1.2
 comtypes==1.1.8
 mypy-extensions==0.4.3
 pathspec==0.8.1
-pypiwin32==223
 pyttsx3 @ git+git://github.com/nateshmbhat/pyttsx3.git@1e2cd7fc63671a410e6ca7b53b1e3b048577e962
-pywin32==300
 regex==2020.11.13
 toml==0.10.2
 typed-ast==1.4.2
